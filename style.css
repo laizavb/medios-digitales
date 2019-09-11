@@ -1,0 +1,101 @@
+body{
+	background: url("images/london.jpg")no-repeat center fixed;
+	background-size: cover;
+	margin:0;
+	padding:0;
+	color:white;
+	font-family: sans-serif;
+
+
+}
+#wrapper{
+    width 90%;
+    height: auto;
+    margin: 0 auto;
+    padding: 12px;
+    }
+
+#heading{
+	font-size: 48px;
+
+}
+
+
+h1{
+
+
+}
+
+#bands{
+}
+
+
+#one{
+	
+	width:28.7%;
+	height:auto;
+	margin: 12 px;
+	padding:12px;
+	display:inline-block;
+
+}
+
+
+#two{
+	
+	width:28.7%;
+	height:auto;
+	margin: 12 px;
+	padding:12px;
+	display:inline-block;
+
+
+}
+
+
+#three{ 
+	width:28.7%;
+	height:auto;
+	margin: 12 px;
+	padding:12px;
+	display:inline-block;
+
+}
+
+
+#one #featured-image{
+	background: url("images/thewho.jpg")center center;
+	background-size: cover;
+	width:200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius:200px;
+
+}
+
+
+#two #featured-image{
+	background: url("images/thebeatles.jpg")center center;
+	background-size: cover;
+	width:200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius:200px;
+
+}
+
+
+#three #featured-image{
+	background: url("images/rollingstones.jpg")center center;
+	background-size: cover;
+	width:200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius:200px;
+
+}
+
+
+h2{
+
+}
